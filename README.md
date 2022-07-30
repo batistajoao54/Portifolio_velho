@@ -1,2 +1,2 @@
 # Portifolio
-Alguns dos projetos desenvolvidos na web
+Aqui estão alguns projetos de desenvolvimento web
